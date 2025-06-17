@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CodeDreams</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 12 Jun 2025 22:23:55 +0800</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/allensu02/CodeDreams-updates/releases/download/prod/CodeDreams.dmg" length="14562898" type="application/octet-stream" sparkle:edSignature="0RENlMBtyS5S14lNxOj8a/4pQICm+twOYBErg8B4vXKHTG/T75Yzc3BRnOVgHNhKGOpaDo+SGJ5eS2CdLp4OAQ=="/>
+        </item>
+    </channel>
+</rss>
