@@ -2,18 +2,16 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>CodeDreams</title>
-        <description><![CDATA[
-             1.1.8
-             New:
-             - Added Update Detection
-         ]]></description>
+        <description>
+            Updated pricing model.
+        </description>
         <item>
-            <title>1.1.8</title>
-            <pubDate>Fri, 11 Jul 2025 10:36:15 +0800</pubDate>
+            <title>1.1.9</title>
+            <pubDate>Fri, 11 Jul 2025 11:55:58 +0800</pubDate>
             <sparkle:version>1.1.8</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/allensu02/CodeDreams-updates/releases/download/prod/CodeDreams.dmg" length="15232454" type="application/octet-stream" sparkle:edSignature="BPljjJnauWhdH5Omn1xfGpL067+CsRYDDZoPDP8JFL4cI6+cd3WERecPXlY3UypJCtIhicfKibfw6BaPNOJXBw=="/>
+            <enclosure url="https://github.com/allensu02/CodeDreams-updates/releases/download/prod/CodeDreams.dmg" length="15266207" type="application/octet-stream" sparkle:edSignature="BTEDIbtMVlrKhmjHsnMKsf3lnj3W0/YE7TTd+nuEFurmfX0AZGfqDnAZ/fgRKvHeCK7muMsfT4BR+VOPugJWDQ=="/>
         </item>
     </channel>
 </rss>
