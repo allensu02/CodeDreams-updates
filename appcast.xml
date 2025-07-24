@@ -3,12 +3,12 @@
     <channel>
         <title>CodeDreams</title>
         <item>
-            <title>1.1.13</title>
-            <pubDate>Thu, 24 Jul 2025 16:53:39 +0800</pubDate>
-            <sparkle:version>1.1.13</sparkle:version>
-            <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+            <title>1.1.14</title>
+            <pubDate>Thu, 24 Jul 2025 21:41:04 +0800</pubDate>
+            <sparkle:version>1.1.14</sparkle:version>
+            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/allensu02/CodeDreams-updates/releases/download/prod/CodeDreams.dmg" length="15226597" type="application/octet-stream" sparkle:edSignature="eFqrMnNQYneXtDtSxPHuafgAfoZArAB2SoPm8IQvcY5CxltQ7WvYYNU+6vcjuXlOWoGecjNwVOG49Vv1Th4hDw=="/>
+            <enclosure url="https://github.com/allensu02/CodeDreams-updates/releases/download/prod/CodeDreams.dmg" length="15227167" type="application/octet-stream" sparkle:edSignature="WE6AjNmBOuXoOuOXKY+uH8CCN1sQR/qor1BO8EGe9QIg0PFd/5mW6amKj0cnQyPcz7/dGBN/J54ByV0UgEuIDw=="/>
         </item>
     </channel>
 </rss>
